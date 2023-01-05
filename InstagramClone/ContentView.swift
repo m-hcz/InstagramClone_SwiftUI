@@ -12,7 +12,7 @@ struct ContentView: View {
         Home()
     }
 }
-
+// main 1
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
