@@ -13,6 +13,7 @@ struct ContentView: View {
     }
 }
 // main 1
+// main 2
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
